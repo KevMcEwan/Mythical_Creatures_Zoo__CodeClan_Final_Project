@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 
-class ExploreButton extends Component{
+class ExploreButton extends React.Component{
    render(){
       return(
          "Explore"
